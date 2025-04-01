@@ -1,8 +1,9 @@
 site_name: My Docs
 site_url: https://tubuntu-full.github.io/mkdocs-repo4/
+#theme:
+#  name: material  # You can change this to 'readthedocs' if you prefer
 theme:
-  name: material  # You can change this to 'readthedocs' if you prefer
-
+  name: readthedocs
 nav:
   - Home: index.md
   - About: about.md
